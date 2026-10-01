@@ -1,8 +1,9 @@
-﻿# 此课 Cike
+# 此课 Cike
 
-**此课（Cike）** 是一个校园信息探索项目，把课程、课表、校园地图、建筑与校园活动放到同一个时间与空间视角里。
+**此课（Cike）** 是一个校园信息探索项目，也是一张 **校园的活点地图（Campus Live Map）**：把课程、课表、校园地图、建筑与校园活动放到同一个时间与空间视角里。
 
-> 此时此刻，校园里正在发生什么？
+> 此时此刻，校园里正在发生什么？  
+> **校园的活点地图 · Campus Live Map**
 
 官网：**https://cikeapp.org**
 
@@ -19,13 +20,14 @@
 
 中文名：**此课**  
 英文名 / Romanized name：**Cike**  
+产品定位：**校园的活点地图 / Campus Live Map**  
 官网域名：**cikeapp.org**
 
-如果你在搜索引擎里寻找“此课”“Cike”“校园课程地图”“校园实时地图”或“大学课程地图”，这里是项目的公开介绍入口。主代码仓库目前不公开；本仓库只用于项目介绍、索引与公开信息，不包含私有源码。
+如果你在搜索引擎里寻找“此课”“Cike”“Campus Live Map”“校园活点地图”“校园课程地图”“校园实时地图”或“大学课程地图”，这里是项目的公开介绍入口。主代码仓库目前不公开；本仓库只用于项目介绍、索引与公开信息，不包含私有源码。
 
 ## Project summary
 
-**Cike (此课)** is a campus map, course schedule and campus events project. It connects classes, locations, buildings and events so students can explore what is happening on campus right now.
+**Cike (此课)** is a **Campus Live Map** for courses and campus events. It connects classes, schedules, locations, buildings and events so students can explore what is happening on campus right now.
 
 Official website: https://cikeapp.org
 
